@@ -1,0 +1,2 @@
+hi professor, if you see this know that the bootstrap icons linked in the django tutorial were completely broken, so i made due with
+what i could. thanks!!
